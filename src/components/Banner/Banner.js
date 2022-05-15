@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            cryptocurrencys
+            cryptocurrencies
           </Typography>
           <Typography
             variant="subtitle2"
