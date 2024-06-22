@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            cryptocurrencies
+            لؤى أحمد عم الشباب و الرياضة
           </Typography>
           <Typography
             variant="subtitle2"
